@@ -13,4 +13,5 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
+    implementation("io.arrow-kt:arrow-core:1.0.3-alpha.30")
 }
